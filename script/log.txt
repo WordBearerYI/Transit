@@ -1,0 +1,1695 @@
+maxpool
+SEED 22321
+cuda
+loading dataset
+latent_size 16
+conv_size 2
+creating model
+start training
+[20/15000], training loss: 0.0766
+model saved to ../results/2D/v1_pose0/model_best.pth
+[40/15000], training loss: 0.0708
+model saved to ../results/2D/v1_pose0/model_best.pth
+[60/15000], training loss: 0.0664
+model saved to ../results/2D/v1_pose0/model_best.pth
+[80/15000], training loss: 0.0639
+v1_pose0, ate: 193.08835960660483
+model saved to ../results/2D/v1_pose0/model_best.pth
+[100/15000], training loss: 0.0619
+model saved to ../results/2D/v1_pose0/model_best.pth
+[120/15000], training loss: 0.0594
+model saved to ../results/2D/v1_pose0/model_best.pth
+[140/15000], training loss: 0.0581
+model saved to ../results/2D/v1_pose0/model_best.pth
+[160/15000], training loss: 0.0547
+v1_pose0, ate: 156.4530026843876
+model saved to ../results/2D/v1_pose0/model_best.pth
+[180/15000], training loss: 0.0554
+model saved to ../results/2D/v1_pose0/model_best.pth
+[200/15000], training loss: 0.0542
+model saved to ../results/2D/v1_pose0/model_best.pth
+[220/15000], training loss: 0.0527
+model saved to ../results/2D/v1_pose0/model_best.pth
+[240/15000], training loss: 0.0504
+v1_pose0, ate: 122.00202086157648
+model saved to ../results/2D/v1_pose0/model_best.pth
+[260/15000], training loss: 0.0507
+model saved to ../results/2D/v1_pose0/model_best.pth
+[280/15000], training loss: 0.0477
+model saved to ../results/2D/v1_pose0/model_best.pth
+[300/15000], training loss: 0.0477
+model saved to ../results/2D/v1_pose0/model_best.pth
+[320/15000], training loss: 0.0468
+v1_pose0, ate: 96.88090865998385
+model saved to ../results/2D/v1_pose0/model_best.pth
+[340/15000], training loss: 0.0451
+model saved to ../results/2D/v1_pose0/model_best.pth
+[360/15000], training loss: 0.0449
+model saved to ../results/2D/v1_pose0/model_best.pth
+[380/15000], training loss: 0.0429
+model saved to ../results/2D/v1_pose0/model_best.pth
+[400/15000], training loss: 0.0417
+v1_pose0, ate: 81.41063358085897
+model saved to ../results/2D/v1_pose0/model_best.pth
+[420/15000], training loss: 0.0411
+model saved to ../results/2D/v1_pose0/model_best.pth
+[440/15000], training loss: 0.0407
+model saved to ../results/2D/v1_pose0/model_best.pth
+[460/15000], training loss: 0.0394
+model saved to ../results/2D/v1_pose0/model_best.pth
+[480/15000], training loss: 0.0390
+v1_pose0, ate: 67.03837403592917
+model saved to ../results/2D/v1_pose0/model_best.pth
+[500/15000], training loss: 0.0397
+model saved to ../results/2D/v1_pose0/model_best.pth
+[520/15000], training loss: 0.0390
+model saved to ../results/2D/v1_pose0/model_best.pth
+[540/15000], training loss: 0.0375
+model saved to ../results/2D/v1_pose0/model_best.pth
+[560/15000], training loss: 0.0382
+v1_pose0, ate: 53.45322824559192
+model saved to ../results/2D/v1_pose0/model_best.pth
+[580/15000], training loss: 0.0382
+model saved to ../results/2D/v1_pose0/model_best.pth
+[600/15000], training loss: 0.0367
+model saved to ../results/2D/v1_pose0/model_best.pth
+[620/15000], training loss: 0.0374
+model saved to ../results/2D/v1_pose0/model_best.pth
+[640/15000], training loss: 0.0361
+v1_pose0, ate: 42.37679743338693
+model saved to ../results/2D/v1_pose0/model_best.pth
+[660/15000], training loss: 0.0352
+model saved to ../results/2D/v1_pose0/model_best.pth
+[680/15000], training loss: 0.0381
+model saved to ../results/2D/v1_pose0/model_best.pth
+[700/15000], training loss: 0.0349
+model saved to ../results/2D/v1_pose0/model_best.pth
+[720/15000], training loss: 0.0357
+v1_pose0, ate: 31.33808559021871
+model saved to ../results/2D/v1_pose0/model_best.pth
+[740/15000], training loss: 0.0369
+model saved to ../results/2D/v1_pose0/model_best.pth
+[760/15000], training loss: 0.0345
+model saved to ../results/2D/v1_pose0/model_best.pth
+[780/15000], training loss: 0.0352
+model saved to ../results/2D/v1_pose0/model_best.pth
+[800/15000], training loss: 0.0342
+v1_pose0, ate: 24.927871172774825
+model saved to ../results/2D/v1_pose0/model_best.pth
+[820/15000], training loss: 0.0325
+model saved to ../results/2D/v1_pose0/model_best.pth
+[840/15000], training loss: 0.0325
+model saved to ../results/2D/v1_pose0/model_best.pth
+[860/15000], training loss: 0.0312
+model saved to ../results/2D/v1_pose0/model_best.pth
+[880/15000], training loss: 0.0328
+v1_pose0, ate: 21.23850155408727
+model saved to ../results/2D/v1_pose0/model_best.pth
+[900/15000], training loss: 0.0319
+model saved to ../results/2D/v1_pose0/model_best.pth
+[920/15000], training loss: 0.0346
+model saved to ../results/2D/v1_pose0/model_best.pth
+[940/15000], training loss: 0.0313
+model saved to ../results/2D/v1_pose0/model_best.pth
+[960/15000], training loss: 0.0335
+v1_pose0, ate: 16.563416418547902
+model saved to ../results/2D/v1_pose0/model_best.pth
+[980/15000], training loss: 0.0342
+model saved to ../results/2D/v1_pose0/model_best.pth
+[1000/15000], training loss: 0.0310
+model saved to ../results/2D/v1_pose0/model_best.pth
+[1020/15000], training loss: 0.0301
+model saved to ../results/2D/v1_pose0/model_best.pth
+[1040/15000], training loss: 0.0330
+v1_pose0, ate: 17.558790146818378
+model saved to ../results/2D/v1_pose0/model_best.pth
+[1060/15000], training loss: 0.0301
+model saved to ../results/2D/v1_pose0/model_best.pth
+[1080/15000], training loss: 0.0293
+model saved to ../results/2D/v1_pose0/model_best.pth
+[1100/15000], training loss: 0.0305
+model saved to ../results/2D/v1_pose0/model_best.pth
+[1120/15000], training loss: 0.0302
+v1_pose0, ate: 12.75289805550665
+model saved to ../results/2D/v1_pose0/model_best.pth
+[1140/15000], training loss: 0.0329
+model saved to ../results/2D/v1_pose0/model_best.pth
+[1160/15000], training loss: 0.0299
+model saved to ../results/2D/v1_pose0/model_best.pth
+[1180/15000], training loss: 0.0317
+model saved to ../results/2D/v1_pose0/model_best.pth
+[1200/15000], training loss: 0.0334
+v1_pose0, ate: 9.560283970110259
+model saved to ../results/2D/v1_pose0/model_best.pth
+[1220/15000], training loss: 0.0293
+model saved to ../results/2D/v1_pose0/model_best.pth
+[1240/15000], training loss: 0.0283
+model saved to ../results/2D/v1_pose0/model_best.pth
+[1260/15000], training loss: 0.0312
+model saved to ../results/2D/v1_pose0/model_best.pth
+[1280/15000], training loss: 0.0300
+v1_pose0, ate: 10.623640840695192
+model saved to ../results/2D/v1_pose0/model_best.pth
+[1300/15000], training loss: 0.0290
+model saved to ../results/2D/v1_pose0/model_best.pth
+[1320/15000], training loss: 0.0319
+model saved to ../results/2D/v1_pose0/model_best.pth
+[1340/15000], training loss: 0.0282
+model saved to ../results/2D/v1_pose0/model_best.pth
+[1360/15000], training loss: 0.0303
+v1_pose0, ate: 7.60039607476008
+model saved to ../results/2D/v1_pose0/model_best.pth
+[1380/15000], training loss: 0.0293
+model saved to ../results/2D/v1_pose0/model_best.pth
+[1400/15000], training loss: 0.0298
+model saved to ../results/2D/v1_pose0/model_best.pth
+[1420/15000], training loss: 0.0287
+model saved to ../results/2D/v1_pose0/model_best.pth
+[1440/15000], training loss: 0.0281
+v1_pose0, ate: 8.566401063953958
+model saved to ../results/2D/v1_pose0/model_best.pth
+[1460/15000], training loss: 0.0300
+model saved to ../results/2D/v1_pose0/model_best.pth
+[1480/15000], training loss: 0.0342
+model saved to ../results/2D/v1_pose0/model_best.pth
+[1500/15000], training loss: 0.0294
+model saved to ../results/2D/v1_pose0/model_best.pth
+[1520/15000], training loss: 0.0295
+v1_pose0, ate: 8.909365415732108
+model saved to ../results/2D/v1_pose0/model_best.pth
+[1540/15000], training loss: 0.0269
+model saved to ../results/2D/v1_pose0/model_best.pth
+[1560/15000], training loss: 0.0335
+model saved to ../results/2D/v1_pose0/model_best.pth
+[1580/15000], training loss: 0.0279
+model saved to ../results/2D/v1_pose0/model_best.pth
+[1600/15000], training loss: 0.0293
+v1_pose0, ate: 9.007176192040305
+model saved to ../results/2D/v1_pose0/model_best.pth
+[1620/15000], training loss: 0.0324
+model saved to ../results/2D/v1_pose0/model_best.pth
+[1640/15000], training loss: 0.0284
+model saved to ../results/2D/v1_pose0/model_best.pth
+[1660/15000], training loss: 0.0296
+model saved to ../results/2D/v1_pose0/model_best.pth
+[1680/15000], training loss: 0.0290
+v1_pose0, ate: 8.465170132392565
+model saved to ../results/2D/v1_pose0/model_best.pth
+[1700/15000], training loss: 0.0283
+model saved to ../results/2D/v1_pose0/model_best.pth
+[1720/15000], training loss: 0.0275
+model saved to ../results/2D/v1_pose0/model_best.pth
+[1740/15000], training loss: 0.0264
+model saved to ../results/2D/v1_pose0/model_best.pth
+[1760/15000], training loss: 0.0329
+v1_pose0, ate: 7.152862146414214
+model saved to ../results/2D/v1_pose0/model_best.pth
+[1780/15000], training loss: 0.0282
+model saved to ../results/2D/v1_pose0/model_best.pth
+[1800/15000], training loss: 0.0255
+model saved to ../results/2D/v1_pose0/model_best.pth
+[1820/15000], training loss: 0.0278
+model saved to ../results/2D/v1_pose0/model_best.pth
+[1840/15000], training loss: 0.0270
+v1_pose0, ate: 7.024984825855598
+model saved to ../results/2D/v1_pose0/model_best.pth
+[1860/15000], training loss: 0.0318
+model saved to ../results/2D/v1_pose0/model_best.pth
+[1880/15000], training loss: 0.0287
+model saved to ../results/2D/v1_pose0/model_best.pth
+[1900/15000], training loss: 0.0268
+model saved to ../results/2D/v1_pose0/model_best.pth
+[1920/15000], training loss: 0.0301
+v1_pose0, ate: 7.888109727425881
+model saved to ../results/2D/v1_pose0/model_best.pth
+[1940/15000], training loss: 0.0247
+model saved to ../results/2D/v1_pose0/model_best.pth
+[1960/15000], training loss: 0.0264
+model saved to ../results/2D/v1_pose0/model_best.pth
+[1980/15000], training loss: 0.0316
+model saved to ../results/2D/v1_pose0/model_best.pth
+[2000/15000], training loss: 0.0294
+v1_pose0, ate: 7.07805063699217
+model saved to ../results/2D/v1_pose0/model_best.pth
+[2020/15000], training loss: 0.0307
+model saved to ../results/2D/v1_pose0/model_best.pth
+[2040/15000], training loss: 0.0273
+model saved to ../results/2D/v1_pose0/model_best.pth
+[2060/15000], training loss: 0.0283
+model saved to ../results/2D/v1_pose0/model_best.pth
+[2080/15000], training loss: 0.0292
+v1_pose0, ate: 7.864426820293354
+model saved to ../results/2D/v1_pose0/model_best.pth
+[2100/15000], training loss: 0.0298
+model saved to ../results/2D/v1_pose0/model_best.pth
+[2120/15000], training loss: 0.0244
+model saved to ../results/2D/v1_pose0/model_best.pth
+[2140/15000], training loss: 0.0266
+model saved to ../results/2D/v1_pose0/model_best.pth
+[2160/15000], training loss: 0.0277
+v1_pose0, ate: 7.364997339848942
+model saved to ../results/2D/v1_pose0/model_best.pth
+[2180/15000], training loss: 0.0248
+model saved to ../results/2D/v1_pose0/model_best.pth
+[2200/15000], training loss: 0.0318
+model saved to ../results/2D/v1_pose0/model_best.pth
+[2220/15000], training loss: 0.0251
+model saved to ../results/2D/v1_pose0/model_best.pth
+[2240/15000], training loss: 0.0282
+v1_pose0, ate: 3.983729960683882
+model saved to ../results/2D/v1_pose0/model_best.pth
+[2260/15000], training loss: 0.0352
+model saved to ../results/2D/v1_pose0/model_best.pth
+[2280/15000], training loss: 0.0266
+model saved to ../results/2D/v1_pose0/model_best.pth
+[2300/15000], training loss: 0.0300
+model saved to ../results/2D/v1_pose0/model_best.pth
+[2320/15000], training loss: 0.0292
+v1_pose0, ate: 5.687376292594698
+model saved to ../results/2D/v1_pose0/model_best.pth
+[2340/15000], training loss: 0.0273
+model saved to ../results/2D/v1_pose0/model_best.pth
+[2360/15000], training loss: 0.0274
+model saved to ../results/2D/v1_pose0/model_best.pth
+[2380/15000], training loss: 0.0258
+model saved to ../results/2D/v1_pose0/model_best.pth
+[2400/15000], training loss: 0.0278
+v1_pose0, ate: 7.028989172709088
+model saved to ../results/2D/v1_pose0/model_best.pth
+[2420/15000], training loss: 0.0267
+model saved to ../results/2D/v1_pose0/model_best.pth
+[2440/15000], training loss: 0.0251
+model saved to ../results/2D/v1_pose0/model_best.pth
+[2460/15000], training loss: 0.0261
+model saved to ../results/2D/v1_pose0/model_best.pth
+[2480/15000], training loss: 0.0278
+v1_pose0, ate: 5.5259744140689975
+model saved to ../results/2D/v1_pose0/model_best.pth
+[2500/15000], training loss: 0.0259
+model saved to ../results/2D/v1_pose0/model_best.pth
+[2520/15000], training loss: 0.0264
+model saved to ../results/2D/v1_pose0/model_best.pth
+[2540/15000], training loss: 0.0291
+model saved to ../results/2D/v1_pose0/model_best.pth
+[2560/15000], training loss: 0.0250
+v1_pose0, ate: 6.813779331039367
+model saved to ../results/2D/v1_pose0/model_best.pth
+[2580/15000], training loss: 0.0263
+model saved to ../results/2D/v1_pose0/model_best.pth
+[2600/15000], training loss: 0.0252
+model saved to ../results/2D/v1_pose0/model_best.pth
+[2620/15000], training loss: 0.0260
+model saved to ../results/2D/v1_pose0/model_best.pth
+[2640/15000], training loss: 0.0275
+v1_pose0, ate: 6.573604855333483
+model saved to ../results/2D/v1_pose0/model_best.pth
+[2660/15000], training loss: 0.0245
+model saved to ../results/2D/v1_pose0/model_best.pth
+[2680/15000], training loss: 0.0325
+model saved to ../results/2D/v1_pose0/model_best.pth
+[2700/15000], training loss: 0.0272
+model saved to ../results/2D/v1_pose0/model_best.pth
+[2720/15000], training loss: 0.0261
+v1_pose0, ate: 4.444245139316439
+model saved to ../results/2D/v1_pose0/model_best.pth
+[2740/15000], training loss: 0.0235
+model saved to ../results/2D/v1_pose0/model_best.pth
+[2760/15000], training loss: 0.0270
+model saved to ../results/2D/v1_pose0/model_best.pth
+[2780/15000], training loss: 0.0261
+model saved to ../results/2D/v1_pose0/model_best.pth
+[2800/15000], training loss: 0.0282
+v1_pose0, ate: 6.13316266089468
+model saved to ../results/2D/v1_pose0/model_best.pth
+[2820/15000], training loss: 0.0269
+model saved to ../results/2D/v1_pose0/model_best.pth
+[2840/15000], training loss: 0.0255
+model saved to ../results/2D/v1_pose0/model_best.pth
+[2860/15000], training loss: 0.0270
+model saved to ../results/2D/v1_pose0/model_best.pth
+[2880/15000], training loss: 0.0270
+v1_pose0, ate: 4.951412876792086
+model saved to ../results/2D/v1_pose0/model_best.pth
+[2900/15000], training loss: 0.0274
+model saved to ../results/2D/v1_pose0/model_best.pth
+[2920/15000], training loss: 0.0256
+model saved to ../results/2D/v1_pose0/model_best.pth
+[2940/15000], training loss: 0.0257
+model saved to ../results/2D/v1_pose0/model_best.pth
+[2960/15000], training loss: 0.0277
+v1_pose0, ate: 6.059496281627298
+model saved to ../results/2D/v1_pose0/model_best.pth
+[2980/15000], training loss: 0.0251
+model saved to ../results/2D/v1_pose0/model_best.pth
+[3000/15000], training loss: 0.0250
+model saved to ../results/2D/v1_pose0/model_best.pth
+[3020/15000], training loss: 0.0291
+model saved to ../results/2D/v1_pose0/model_best.pth
+[3040/15000], training loss: 0.0254
+v1_pose0, ate: 4.862131267035986
+model saved to ../results/2D/v1_pose0/model_best.pth
+[3060/15000], training loss: 0.0283
+model saved to ../results/2D/v1_pose0/model_best.pth
+[3080/15000], training loss: 0.0251
+model saved to ../results/2D/v1_pose0/model_best.pth
+[3100/15000], training loss: 0.0256
+model saved to ../results/2D/v1_pose0/model_best.pth
+[3120/15000], training loss: 0.0238
+v1_pose0, ate: 4.899637814936806
+model saved to ../results/2D/v1_pose0/model_best.pth
+[3140/15000], training loss: 0.0280
+model saved to ../results/2D/v1_pose0/model_best.pth
+[3160/15000], training loss: 0.0252
+model saved to ../results/2D/v1_pose0/model_best.pth
+[3180/15000], training loss: 0.0292
+model saved to ../results/2D/v1_pose0/model_best.pth
+[3200/15000], training loss: 0.0274
+v1_pose0, ate: 5.004607849855614
+model saved to ../results/2D/v1_pose0/model_best.pth
+[3220/15000], training loss: 0.0252
+model saved to ../results/2D/v1_pose0/model_best.pth
+[3240/15000], training loss: 0.0253
+model saved to ../results/2D/v1_pose0/model_best.pth
+[3260/15000], training loss: 0.0376
+model saved to ../results/2D/v1_pose0/model_best.pth
+[3280/15000], training loss: 0.0258
+v1_pose0, ate: 4.491692406844642
+model saved to ../results/2D/v1_pose0/model_best.pth
+[3300/15000], training loss: 0.0244
+model saved to ../results/2D/v1_pose0/model_best.pth
+[3320/15000], training loss: 0.0261
+model saved to ../results/2D/v1_pose0/model_best.pth
+[3340/15000], training loss: 0.0264
+model saved to ../results/2D/v1_pose0/model_best.pth
+[3360/15000], training loss: 0.0274
+v1_pose0, ate: 6.024636649082737
+model saved to ../results/2D/v1_pose0/model_best.pth
+[3380/15000], training loss: 0.0259
+model saved to ../results/2D/v1_pose0/model_best.pth
+[3400/15000], training loss: 0.0279
+model saved to ../results/2D/v1_pose0/model_best.pth
+[3420/15000], training loss: 0.0248
+model saved to ../results/2D/v1_pose0/model_best.pth
+[3440/15000], training loss: 0.0261
+v1_pose0, ate: 4.544028003049352
+model saved to ../results/2D/v1_pose0/model_best.pth
+[3460/15000], training loss: 0.0279
+model saved to ../results/2D/v1_pose0/model_best.pth
+[3480/15000], training loss: 0.0250
+model saved to ../results/2D/v1_pose0/model_best.pth
+[3500/15000], training loss: 0.0250
+model saved to ../results/2D/v1_pose0/model_best.pth
+[3520/15000], training loss: 0.0269
+v1_pose0, ate: 5.919081666825136
+model saved to ../results/2D/v1_pose0/model_best.pth
+[3540/15000], training loss: 0.0257
+model saved to ../results/2D/v1_pose0/model_best.pth
+[3560/15000], training loss: 0.0237
+model saved to ../results/2D/v1_pose0/model_best.pth
+[3580/15000], training loss: 0.0295
+model saved to ../results/2D/v1_pose0/model_best.pth
+[3600/15000], training loss: 0.0260
+v1_pose0, ate: 3.921275018734662
+model saved to ../results/2D/v1_pose0/model_best.pth
+[3620/15000], training loss: 0.0240
+model saved to ../results/2D/v1_pose0/model_best.pth
+[3640/15000], training loss: 0.0253
+model saved to ../results/2D/v1_pose0/model_best.pth
+[3660/15000], training loss: 0.0253
+model saved to ../results/2D/v1_pose0/model_best.pth
+[3680/15000], training loss: 0.0273
+v1_pose0, ate: 4.276703804260763
+model saved to ../results/2D/v1_pose0/model_best.pth
+[3700/15000], training loss: 0.0259
+model saved to ../results/2D/v1_pose0/model_best.pth
+[3720/15000], training loss: 0.0288
+model saved to ../results/2D/v1_pose0/model_best.pth
+[3740/15000], training loss: 0.0229
+model saved to ../results/2D/v1_pose0/model_best.pth
+[3760/15000], training loss: 0.0266
+v1_pose0, ate: 3.6140839470702972
+model saved to ../results/2D/v1_pose0/model_best.pth
+[3780/15000], training loss: 0.0263
+model saved to ../results/2D/v1_pose0/model_best.pth
+[3800/15000], training loss: 0.0304
+model saved to ../results/2D/v1_pose0/model_best.pth
+[3820/15000], training loss: 0.0236
+model saved to ../results/2D/v1_pose0/model_best.pth
+[3840/15000], training loss: 0.0278
+v1_pose0, ate: 4.9030599770273735
+model saved to ../results/2D/v1_pose0/model_best.pth
+[3860/15000], training loss: 0.0266
+model saved to ../results/2D/v1_pose0/model_best.pth
+[3880/15000], training loss: 0.0245
+model saved to ../results/2D/v1_pose0/model_best.pth
+[3900/15000], training loss: 0.0277
+model saved to ../results/2D/v1_pose0/model_best.pth
+[3920/15000], training loss: 0.0270
+v1_pose0, ate: 7.091168740119265
+model saved to ../results/2D/v1_pose0/model_best.pth
+[3940/15000], training loss: 0.0248
+model saved to ../results/2D/v1_pose0/model_best.pth
+[3960/15000], training loss: 0.0242
+model saved to ../results/2D/v1_pose0/model_best.pth
+[3980/15000], training loss: 0.0258
+model saved to ../results/2D/v1_pose0/model_best.pth
+[4000/15000], training loss: 0.0267
+v1_pose0, ate: 4.368917465382022
+model saved to ../results/2D/v1_pose0/model_best.pth
+[4020/15000], training loss: 0.0259
+model saved to ../results/2D/v1_pose0/model_best.pth
+[4040/15000], training loss: 0.0251
+model saved to ../results/2D/v1_pose0/model_best.pth
+[4060/15000], training loss: 0.0277
+model saved to ../results/2D/v1_pose0/model_best.pth
+[4080/15000], training loss: 0.0250
+v1_pose0, ate: 5.154641827278075
+model saved to ../results/2D/v1_pose0/model_best.pth
+[4100/15000], training loss: 0.0271
+model saved to ../results/2D/v1_pose0/model_best.pth
+[4120/15000], training loss: 0.0260
+model saved to ../results/2D/v1_pose0/model_best.pth
+[4140/15000], training loss: 0.0229
+model saved to ../results/2D/v1_pose0/model_best.pth
+[4160/15000], training loss: 0.0262
+v1_pose0, ate: 4.25870077012657
+model saved to ../results/2D/v1_pose0/model_best.pth
+[4180/15000], training loss: 0.0238
+model saved to ../results/2D/v1_pose0/model_best.pth
+[4200/15000], training loss: 0.0268
+model saved to ../results/2D/v1_pose0/model_best.pth
+[4220/15000], training loss: 0.0277
+model saved to ../results/2D/v1_pose0/model_best.pth
+[4240/15000], training loss: 0.0259
+v1_pose0, ate: 8.727063896062523
+model saved to ../results/2D/v1_pose0/model_best.pth
+[4260/15000], training loss: 0.0263
+model saved to ../results/2D/v1_pose0/model_best.pth
+[4280/15000], training loss: 0.0261
+model saved to ../results/2D/v1_pose0/model_best.pth
+[4300/15000], training loss: 0.0259
+model saved to ../results/2D/v1_pose0/model_best.pth
+[4320/15000], training loss: 0.0249
+v1_pose0, ate: 3.249233528069995
+model saved to ../results/2D/v1_pose0/model_best.pth
+[4340/15000], training loss: 0.0250
+model saved to ../results/2D/v1_pose0/model_best.pth
+[4360/15000], training loss: 0.0255
+model saved to ../results/2D/v1_pose0/model_best.pth
+[4380/15000], training loss: 0.0243
+model saved to ../results/2D/v1_pose0/model_best.pth
+[4400/15000], training loss: 0.0287
+v1_pose0, ate: 4.9917616009188865
+model saved to ../results/2D/v1_pose0/model_best.pth
+[4420/15000], training loss: 0.0239
+model saved to ../results/2D/v1_pose0/model_best.pth
+[4440/15000], training loss: 0.0261
+model saved to ../results/2D/v1_pose0/model_best.pth
+[4460/15000], training loss: 0.0248
+model saved to ../results/2D/v1_pose0/model_best.pth
+[4480/15000], training loss: 0.0248
+v1_pose0, ate: 6.593165452171796
+model saved to ../results/2D/v1_pose0/model_best.pth
+[4500/15000], training loss: 0.0259
+model saved to ../results/2D/v1_pose0/model_best.pth
+[4520/15000], training loss: 0.0236
+model saved to ../results/2D/v1_pose0/model_best.pth
+[4540/15000], training loss: 0.0231
+model saved to ../results/2D/v1_pose0/model_best.pth
+[4560/15000], training loss: 0.0249
+v1_pose0, ate: 3.4639023125223396
+model saved to ../results/2D/v1_pose0/model_best.pth
+[4580/15000], training loss: 0.0266
+model saved to ../results/2D/v1_pose0/model_best.pth
+[4600/15000], training loss: 0.0266
+model saved to ../results/2D/v1_pose0/model_best.pth
+[4620/15000], training loss: 0.0303
+model saved to ../results/2D/v1_pose0/model_best.pth
+[4640/15000], training loss: 0.0252
+v1_pose0, ate: 4.185733237493461
+model saved to ../results/2D/v1_pose0/model_best.pth
+[4660/15000], training loss: 0.0282
+model saved to ../results/2D/v1_pose0/model_best.pth
+[4680/15000], training loss: 0.0229
+model saved to ../results/2D/v1_pose0/model_best.pth
+[4700/15000], training loss: 0.0251
+model saved to ../results/2D/v1_pose0/model_best.pth
+[4720/15000], training loss: 0.0251
+v1_pose0, ate: 6.314419349512745
+model saved to ../results/2D/v1_pose0/model_best.pth
+[4740/15000], training loss: 0.0252
+model saved to ../results/2D/v1_pose0/model_best.pth
+[4760/15000], training loss: 0.0241
+model saved to ../results/2D/v1_pose0/model_best.pth
+[4780/15000], training loss: 0.0235
+model saved to ../results/2D/v1_pose0/model_best.pth
+[4800/15000], training loss: 0.0238
+v1_pose0, ate: 4.401879836390569
+model saved to ../results/2D/v1_pose0/model_best.pth
+[4820/15000], training loss: 0.0276
+model saved to ../results/2D/v1_pose0/model_best.pth
+[4840/15000], training loss: 0.0286
+model saved to ../results/2D/v1_pose0/model_best.pth
+[4860/15000], training loss: 0.0246
+model saved to ../results/2D/v1_pose0/model_best.pth
+[4880/15000], training loss: 0.0247
+v1_pose0, ate: 3.7519767565420894
+model saved to ../results/2D/v1_pose0/model_best.pth
+[4900/15000], training loss: 0.0245
+model saved to ../results/2D/v1_pose0/model_best.pth
+[4920/15000], training loss: 0.0261
+model saved to ../results/2D/v1_pose0/model_best.pth
+[4940/15000], training loss: 0.0295
+model saved to ../results/2D/v1_pose0/model_best.pth
+[4960/15000], training loss: 0.0272
+v1_pose0, ate: 4.437187227795462
+model saved to ../results/2D/v1_pose0/model_best.pth
+[4980/15000], training loss: 0.0251
+model saved to ../results/2D/v1_pose0/model_best.pth
+[5000/15000], training loss: 0.0268
+model saved to ../results/2D/v1_pose0/model_best.pth
+[5020/15000], training loss: 0.0264
+model saved to ../results/2D/v1_pose0/model_best.pth
+[5040/15000], training loss: 0.0244
+v1_pose0, ate: 4.721068894983055
+model saved to ../results/2D/v1_pose0/model_best.pth
+[5060/15000], training loss: 0.0262
+model saved to ../results/2D/v1_pose0/model_best.pth
+[5080/15000], training loss: 0.0265
+model saved to ../results/2D/v1_pose0/model_best.pth
+[5100/15000], training loss: 0.0257
+model saved to ../results/2D/v1_pose0/model_best.pth
+[5120/15000], training loss: 0.0246
+v1_pose0, ate: 5.001781034628074
+model saved to ../results/2D/v1_pose0/model_best.pth
+[5140/15000], training loss: 0.0273
+model saved to ../results/2D/v1_pose0/model_best.pth
+[5160/15000], training loss: 0.0298
+model saved to ../results/2D/v1_pose0/model_best.pth
+[5180/15000], training loss: 0.0295
+model saved to ../results/2D/v1_pose0/model_best.pth
+[5200/15000], training loss: 0.0229
+v1_pose0, ate: 2.214248386746426
+model saved to ../results/2D/v1_pose0/model_best.pth
+[5220/15000], training loss: 0.0250
+model saved to ../results/2D/v1_pose0/model_best.pth
+[5240/15000], training loss: 0.0264
+model saved to ../results/2D/v1_pose0/model_best.pth
+[5260/15000], training loss: 0.0319
+model saved to ../results/2D/v1_pose0/model_best.pth
+[5280/15000], training loss: 0.0262
+v1_pose0, ate: 3.7071368275454115
+model saved to ../results/2D/v1_pose0/model_best.pth
+[5300/15000], training loss: 0.0257
+model saved to ../results/2D/v1_pose0/model_best.pth
+[5320/15000], training loss: 0.0253
+model saved to ../results/2D/v1_pose0/model_best.pth
+[5340/15000], training loss: 0.0249
+model saved to ../results/2D/v1_pose0/model_best.pth
+[5360/15000], training loss: 0.0249
+v1_pose0, ate: 4.487169756467956
+model saved to ../results/2D/v1_pose0/model_best.pth
+[5380/15000], training loss: 0.0243
+model saved to ../results/2D/v1_pose0/model_best.pth
+[5400/15000], training loss: 0.0277
+model saved to ../results/2D/v1_pose0/model_best.pth
+[5420/15000], training loss: 0.0243
+model saved to ../results/2D/v1_pose0/model_best.pth
+[5440/15000], training loss: 0.0237
+v1_pose0, ate: 5.626942536914894
+model saved to ../results/2D/v1_pose0/model_best.pth
+[5460/15000], training loss: 0.0240
+model saved to ../results/2D/v1_pose0/model_best.pth
+[5480/15000], training loss: 0.0287
+model saved to ../results/2D/v1_pose0/model_best.pth
+[5500/15000], training loss: 0.0240
+model saved to ../results/2D/v1_pose0/model_best.pth
+[5520/15000], training loss: 0.0252
+v1_pose0, ate: 2.724853441514252
+model saved to ../results/2D/v1_pose0/model_best.pth
+[5540/15000], training loss: 0.0271
+model saved to ../results/2D/v1_pose0/model_best.pth
+[5560/15000], training loss: 0.0240
+model saved to ../results/2D/v1_pose0/model_best.pth
+[5580/15000], training loss: 0.0265
+model saved to ../results/2D/v1_pose0/model_best.pth
+[5600/15000], training loss: 0.0246
+v1_pose0, ate: 3.5827142708332347
+model saved to ../results/2D/v1_pose0/model_best.pth
+[5620/15000], training loss: 0.0236
+model saved to ../results/2D/v1_pose0/model_best.pth
+[5640/15000], training loss: 0.0221
+model saved to ../results/2D/v1_pose0/model_best.pth
+[5660/15000], training loss: 0.0271
+model saved to ../results/2D/v1_pose0/model_best.pth
+[5680/15000], training loss: 0.0260
+v1_pose0, ate: 4.6314045302444935
+model saved to ../results/2D/v1_pose0/model_best.pth
+[5700/15000], training loss: 0.0249
+model saved to ../results/2D/v1_pose0/model_best.pth
+[5720/15000], training loss: 0.0268
+model saved to ../results/2D/v1_pose0/model_best.pth
+[5740/15000], training loss: 0.0230
+model saved to ../results/2D/v1_pose0/model_best.pth
+[5760/15000], training loss: 0.0232
+v1_pose0, ate: 3.6257145660839476
+model saved to ../results/2D/v1_pose0/model_best.pth
+[5780/15000], training loss: 0.0282
+model saved to ../results/2D/v1_pose0/model_best.pth
+[5800/15000], training loss: 0.0259
+model saved to ../results/2D/v1_pose0/model_best.pth
+[5820/15000], training loss: 0.0255
+model saved to ../results/2D/v1_pose0/model_best.pth
+[5840/15000], training loss: 0.0275
+v1_pose0, ate: 3.7158400175731416
+model saved to ../results/2D/v1_pose0/model_best.pth
+[5860/15000], training loss: 0.0261
+model saved to ../results/2D/v1_pose0/model_best.pth
+[5880/15000], training loss: 0.0233
+model saved to ../results/2D/v1_pose0/model_best.pth
+[5900/15000], training loss: 0.0229
+model saved to ../results/2D/v1_pose0/model_best.pth
+[5920/15000], training loss: 0.0217
+v1_pose0, ate: 2.8135902157171895
+model saved to ../results/2D/v1_pose0/model_best.pth
+[5940/15000], training loss: 0.0278
+model saved to ../results/2D/v1_pose0/model_best.pth
+[5960/15000], training loss: 0.0237
+model saved to ../results/2D/v1_pose0/model_best.pth
+[5980/15000], training loss: 0.0217
+model saved to ../results/2D/v1_pose0/model_best.pth
+[6000/15000], training loss: 0.0284
+v1_pose0, ate: 5.541706882013851
+model saved to ../results/2D/v1_pose0/model_best.pth
+[6020/15000], training loss: 0.0263
+model saved to ../results/2D/v1_pose0/model_best.pth
+[6040/15000], training loss: 0.0255
+model saved to ../results/2D/v1_pose0/model_best.pth
+[6060/15000], training loss: 0.0252
+model saved to ../results/2D/v1_pose0/model_best.pth
+[6080/15000], training loss: 0.0250
+v1_pose0, ate: 4.3089954694806405
+model saved to ../results/2D/v1_pose0/model_best.pth
+[6100/15000], training loss: 0.0258
+model saved to ../results/2D/v1_pose0/model_best.pth
+[6120/15000], training loss: 0.0218
+model saved to ../results/2D/v1_pose0/model_best.pth
+[6140/15000], training loss: 0.0241
+model saved to ../results/2D/v1_pose0/model_best.pth
+[6160/15000], training loss: 0.0260
+v1_pose0, ate: 4.0272386152157456
+model saved to ../results/2D/v1_pose0/model_best.pth
+[6180/15000], training loss: 0.0247
+model saved to ../results/2D/v1_pose0/model_best.pth
+[6200/15000], training loss: 0.0237
+model saved to ../results/2D/v1_pose0/model_best.pth
+[6220/15000], training loss: 0.0256
+model saved to ../results/2D/v1_pose0/model_best.pth
+[6240/15000], training loss: 0.0231
+v1_pose0, ate: 4.948475352398977
+model saved to ../results/2D/v1_pose0/model_best.pth
+[6260/15000], training loss: 0.0284
+model saved to ../results/2D/v1_pose0/model_best.pth
+[6280/15000], training loss: 0.0241
+model saved to ../results/2D/v1_pose0/model_best.pth
+[6300/15000], training loss: 0.0237
+model saved to ../results/2D/v1_pose0/model_best.pth
+[6320/15000], training loss: 0.0235
+v1_pose0, ate: 4.467079864325477
+model saved to ../results/2D/v1_pose0/model_best.pth
+[6340/15000], training loss: 0.0275
+model saved to ../results/2D/v1_pose0/model_best.pth
+[6360/15000], training loss: 0.0247
+model saved to ../results/2D/v1_pose0/model_best.pth
+[6380/15000], training loss: 0.0243
+model saved to ../results/2D/v1_pose0/model_best.pth
+[6400/15000], training loss: 0.0234
+v1_pose0, ate: 3.82308485852743
+model saved to ../results/2D/v1_pose0/model_best.pth
+[6420/15000], training loss: 0.0226
+model saved to ../results/2D/v1_pose0/model_best.pth
+[6440/15000], training loss: 0.0243
+model saved to ../results/2D/v1_pose0/model_best.pth
+[6460/15000], training loss: 0.0207
+model saved to ../results/2D/v1_pose0/model_best.pth
+[6480/15000], training loss: 0.0222
+v1_pose0, ate: 4.243735435408309
+model saved to ../results/2D/v1_pose0/model_best.pth
+[6500/15000], training loss: 0.0226
+model saved to ../results/2D/v1_pose0/model_best.pth
+[6520/15000], training loss: 0.0259
+model saved to ../results/2D/v1_pose0/model_best.pth
+[6540/15000], training loss: 0.0266
+model saved to ../results/2D/v1_pose0/model_best.pth
+[6560/15000], training loss: 0.0238
+v1_pose0, ate: 1.6033101564394223
+model saved to ../results/2D/v1_pose0/model_best.pth
+[6580/15000], training loss: 0.0245
+model saved to ../results/2D/v1_pose0/model_best.pth
+[6600/15000], training loss: 0.0229
+model saved to ../results/2D/v1_pose0/model_best.pth
+[6620/15000], training loss: 0.0253
+model saved to ../results/2D/v1_pose0/model_best.pth
+[6640/15000], training loss: 0.0332
+v1_pose0, ate: 5.875209897462432
+model saved to ../results/2D/v1_pose0/model_best.pth
+[6660/15000], training loss: 0.0235
+model saved to ../results/2D/v1_pose0/model_best.pth
+[6680/15000], training loss: 0.0234
+model saved to ../results/2D/v1_pose0/model_best.pth
+[6700/15000], training loss: 0.0226
+model saved to ../results/2D/v1_pose0/model_best.pth
+[6720/15000], training loss: 0.0238
+v1_pose0, ate: 3.8823107161853274
+model saved to ../results/2D/v1_pose0/model_best.pth
+[6740/15000], training loss: 0.0254
+model saved to ../results/2D/v1_pose0/model_best.pth
+[6760/15000], training loss: 0.0225
+model saved to ../results/2D/v1_pose0/model_best.pth
+[6780/15000], training loss: 0.0229
+model saved to ../results/2D/v1_pose0/model_best.pth
+[6800/15000], training loss: 0.0273
+v1_pose0, ate: 4.312117708941563
+model saved to ../results/2D/v1_pose0/model_best.pth
+[6820/15000], training loss: 0.0242
+model saved to ../results/2D/v1_pose0/model_best.pth
+[6840/15000], training loss: 0.0293
+model saved to ../results/2D/v1_pose0/model_best.pth
+[6860/15000], training loss: 0.0231
+model saved to ../results/2D/v1_pose0/model_best.pth
+[6880/15000], training loss: 0.0267
+v1_pose0, ate: 2.8692144640839428
+model saved to ../results/2D/v1_pose0/model_best.pth
+[6900/15000], training loss: 0.0222
+model saved to ../results/2D/v1_pose0/model_best.pth
+[6920/15000], training loss: 0.0234
+model saved to ../results/2D/v1_pose0/model_best.pth
+[6940/15000], training loss: 0.0233
+model saved to ../results/2D/v1_pose0/model_best.pth
+[6960/15000], training loss: 0.0246
+v1_pose0, ate: 4.3440355998438145
+model saved to ../results/2D/v1_pose0/model_best.pth
+[6980/15000], training loss: 0.0283
+model saved to ../results/2D/v1_pose0/model_best.pth
+[7000/15000], training loss: 0.0248
+model saved to ../results/2D/v1_pose0/model_best.pth
+[7020/15000], training loss: 0.0247
+model saved to ../results/2D/v1_pose0/model_best.pth
+[7040/15000], training loss: 0.0268
+v1_pose0, ate: 2.8838197299901496
+model saved to ../results/2D/v1_pose0/model_best.pth
+[7060/15000], training loss: 0.0244
+model saved to ../results/2D/v1_pose0/model_best.pth
+[7080/15000], training loss: 0.0251
+model saved to ../results/2D/v1_pose0/model_best.pth
+[7100/15000], training loss: 0.0257
+model saved to ../results/2D/v1_pose0/model_best.pth
+[7120/15000], training loss: 0.0252
+v1_pose0, ate: 3.041386186019151
+model saved to ../results/2D/v1_pose0/model_best.pth
+[7140/15000], training loss: 0.0238
+model saved to ../results/2D/v1_pose0/model_best.pth
+[7160/15000], training loss: 0.0236
+model saved to ../results/2D/v1_pose0/model_best.pth
+[7180/15000], training loss: 0.0267
+model saved to ../results/2D/v1_pose0/model_best.pth
+[7200/15000], training loss: 0.0274
+v1_pose0, ate: 4.734557390106915
+model saved to ../results/2D/v1_pose0/model_best.pth
+[7220/15000], training loss: 0.0308
+model saved to ../results/2D/v1_pose0/model_best.pth
+[7240/15000], training loss: 0.0239
+model saved to ../results/2D/v1_pose0/model_best.pth
+[7260/15000], training loss: 0.0259
+model saved to ../results/2D/v1_pose0/model_best.pth
+[7280/15000], training loss: 0.0260
+v1_pose0, ate: 1.724612036588519
+model saved to ../results/2D/v1_pose0/model_best.pth
+[7300/15000], training loss: 0.0256
+model saved to ../results/2D/v1_pose0/model_best.pth
+[7320/15000], training loss: 0.0278
+model saved to ../results/2D/v1_pose0/model_best.pth
+[7340/15000], training loss: 0.0260
+model saved to ../results/2D/v1_pose0/model_best.pth
+[7360/15000], training loss: 0.0247
+v1_pose0, ate: 3.3381103543598254
+model saved to ../results/2D/v1_pose0/model_best.pth
+[7380/15000], training loss: 0.0228
+model saved to ../results/2D/v1_pose0/model_best.pth
+[7400/15000], training loss: 0.0222
+model saved to ../results/2D/v1_pose0/model_best.pth
+[7420/15000], training loss: 0.0270
+model saved to ../results/2D/v1_pose0/model_best.pth
+[7440/15000], training loss: 0.0251
+v1_pose0, ate: 4.464826517145596
+model saved to ../results/2D/v1_pose0/model_best.pth
+[7460/15000], training loss: 0.0231
+model saved to ../results/2D/v1_pose0/model_best.pth
+[7480/15000], training loss: 0.0227
+model saved to ../results/2D/v1_pose0/model_best.pth
+[7500/15000], training loss: 0.0270
+model saved to ../results/2D/v1_pose0/model_best.pth
+[7520/15000], training loss: 0.0252
+v1_pose0, ate: 2.4228586671292396
+model saved to ../results/2D/v1_pose0/model_best.pth
+[7540/15000], training loss: 0.0227
+model saved to ../results/2D/v1_pose0/model_best.pth
+[7560/15000], training loss: 0.0228
+model saved to ../results/2D/v1_pose0/model_best.pth
+[7580/15000], training loss: 0.0293
+model saved to ../results/2D/v1_pose0/model_best.pth
+[7600/15000], training loss: 0.0220
+v1_pose0, ate: 3.4787788070011305
+model saved to ../results/2D/v1_pose0/model_best.pth
+[7620/15000], training loss: 0.0224
+model saved to ../results/2D/v1_pose0/model_best.pth
+[7640/15000], training loss: 0.0230
+model saved to ../results/2D/v1_pose0/model_best.pth
+[7660/15000], training loss: 0.0261
+model saved to ../results/2D/v1_pose0/model_best.pth
+[7680/15000], training loss: 0.0240
+v1_pose0, ate: 3.3879461113940983
+model saved to ../results/2D/v1_pose0/model_best.pth
+[7700/15000], training loss: 0.0237
+model saved to ../results/2D/v1_pose0/model_best.pth
+[7720/15000], training loss: 0.0231
+model saved to ../results/2D/v1_pose0/model_best.pth
+[7740/15000], training loss: 0.0221
+model saved to ../results/2D/v1_pose0/model_best.pth
+[7760/15000], training loss: 0.0257
+v1_pose0, ate: 3.7021948507632465
+model saved to ../results/2D/v1_pose0/model_best.pth
+[7780/15000], training loss: 0.0232
+model saved to ../results/2D/v1_pose0/model_best.pth
+[7800/15000], training loss: 0.0242
+model saved to ../results/2D/v1_pose0/model_best.pth
+[7820/15000], training loss: 0.0252
+model saved to ../results/2D/v1_pose0/model_best.pth
+[7840/15000], training loss: 0.0221
+v1_pose0, ate: 3.4160667116326446
+model saved to ../results/2D/v1_pose0/model_best.pth
+[7860/15000], training loss: 0.0245
+model saved to ../results/2D/v1_pose0/model_best.pth
+[7880/15000], training loss: 0.0224
+model saved to ../results/2D/v1_pose0/model_best.pth
+[7900/15000], training loss: 0.0236
+model saved to ../results/2D/v1_pose0/model_best.pth
+[7920/15000], training loss: 0.0229
+v1_pose0, ate: 4.517147229295204
+model saved to ../results/2D/v1_pose0/model_best.pth
+[7940/15000], training loss: 0.0285
+model saved to ../results/2D/v1_pose0/model_best.pth
+[7960/15000], training loss: 0.0275
+model saved to ../results/2D/v1_pose0/model_best.pth
+[7980/15000], training loss: 0.0226
+model saved to ../results/2D/v1_pose0/model_best.pth
+[8000/15000], training loss: 0.0237
+v1_pose0, ate: 2.6433403172583585
+model saved to ../results/2D/v1_pose0/model_best.pth
+[8020/15000], training loss: 0.0221
+model saved to ../results/2D/v1_pose0/model_best.pth
+[8040/15000], training loss: 0.0223
+model saved to ../results/2D/v1_pose0/model_best.pth
+[8060/15000], training loss: 0.0293
+model saved to ../results/2D/v1_pose0/model_best.pth
+[8080/15000], training loss: 0.0213
+v1_pose0, ate: 3.4803084723706066
+model saved to ../results/2D/v1_pose0/model_best.pth
+[8100/15000], training loss: 0.0251
+model saved to ../results/2D/v1_pose0/model_best.pth
+[8120/15000], training loss: 0.0218
+model saved to ../results/2D/v1_pose0/model_best.pth
+[8140/15000], training loss: 0.0292
+model saved to ../results/2D/v1_pose0/model_best.pth
+[8160/15000], training loss: 0.0226
+v1_pose0, ate: 3.037805808371683
+model saved to ../results/2D/v1_pose0/model_best.pth
+[8180/15000], training loss: 0.0253
+model saved to ../results/2D/v1_pose0/model_best.pth
+[8200/15000], training loss: 0.0277
+model saved to ../results/2D/v1_pose0/model_best.pth
+[8220/15000], training loss: 0.0223
+model saved to ../results/2D/v1_pose0/model_best.pth
+[8240/15000], training loss: 0.0235
+v1_pose0, ate: 5.323793084781844
+model saved to ../results/2D/v1_pose0/model_best.pth
+[8260/15000], training loss: 0.0246
+model saved to ../results/2D/v1_pose0/model_best.pth
+[8280/15000], training loss: 0.0240
+model saved to ../results/2D/v1_pose0/model_best.pth
+[8300/15000], training loss: 0.0228
+model saved to ../results/2D/v1_pose0/model_best.pth
+[8320/15000], training loss: 0.0254
+v1_pose0, ate: 3.3382816798936363
+model saved to ../results/2D/v1_pose0/model_best.pth
+[8340/15000], training loss: 0.0263
+model saved to ../results/2D/v1_pose0/model_best.pth
+[8360/15000], training loss: 0.0233
+model saved to ../results/2D/v1_pose0/model_best.pth
+[8380/15000], training loss: 0.0284
+model saved to ../results/2D/v1_pose0/model_best.pth
+[8400/15000], training loss: 0.0236
+v1_pose0, ate: 3.653253341785063
+model saved to ../results/2D/v1_pose0/model_best.pth
+[8420/15000], training loss: 0.0230
+model saved to ../results/2D/v1_pose0/model_best.pth
+[8440/15000], training loss: 0.0248
+model saved to ../results/2D/v1_pose0/model_best.pth
+[8460/15000], training loss: 0.0276
+model saved to ../results/2D/v1_pose0/model_best.pth
+[8480/15000], training loss: 0.0275
+v1_pose0, ate: 4.944573260339144
+model saved to ../results/2D/v1_pose0/model_best.pth
+[8500/15000], training loss: 0.0253
+model saved to ../results/2D/v1_pose0/model_best.pth
+[8520/15000], training loss: 0.0254
+model saved to ../results/2D/v1_pose0/model_best.pth
+[8540/15000], training loss: 0.0275
+model saved to ../results/2D/v1_pose0/model_best.pth
+[8560/15000], training loss: 0.0264
+v1_pose0, ate: 2.836671890925598
+model saved to ../results/2D/v1_pose0/model_best.pth
+[8580/15000], training loss: 0.0242
+model saved to ../results/2D/v1_pose0/model_best.pth
+[8600/15000], training loss: 0.0258
+model saved to ../results/2D/v1_pose0/model_best.pth
+[8620/15000], training loss: 0.0237
+model saved to ../results/2D/v1_pose0/model_best.pth
+[8640/15000], training loss: 0.0330
+v1_pose0, ate: 8.148461585688873
+model saved to ../results/2D/v1_pose0/model_best.pth
+[8660/15000], training loss: 0.0245
+model saved to ../results/2D/v1_pose0/model_best.pth
+[8680/15000], training loss: 0.0221
+model saved to ../results/2D/v1_pose0/model_best.pth
+[8700/15000], training loss: 0.0264
+model saved to ../results/2D/v1_pose0/model_best.pth
+[8720/15000], training loss: 0.0257
+v1_pose0, ate: 2.547846735633596
+model saved to ../results/2D/v1_pose0/model_best.pth
+[8740/15000], training loss: 0.0264
+model saved to ../results/2D/v1_pose0/model_best.pth
+[8760/15000], training loss: 0.0254
+model saved to ../results/2D/v1_pose0/model_best.pth
+[8780/15000], training loss: 0.0273
+model saved to ../results/2D/v1_pose0/model_best.pth
+[8800/15000], training loss: 0.0238
+v1_pose0, ate: 5.36468508163156
+model saved to ../results/2D/v1_pose0/model_best.pth
+[8820/15000], training loss: 0.0238
+model saved to ../results/2D/v1_pose0/model_best.pth
+[8840/15000], training loss: 0.0239
+model saved to ../results/2D/v1_pose0/model_best.pth
+[8860/15000], training loss: 0.0285
+model saved to ../results/2D/v1_pose0/model_best.pth
+[8880/15000], training loss: 0.0243
+v1_pose0, ate: 2.4484075017434157
+model saved to ../results/2D/v1_pose0/model_best.pth
+[8900/15000], training loss: 0.0240
+model saved to ../results/2D/v1_pose0/model_best.pth
+[8920/15000], training loss: 0.0264
+model saved to ../results/2D/v1_pose0/model_best.pth
+[8940/15000], training loss: 0.0266
+model saved to ../results/2D/v1_pose0/model_best.pth
+[8960/15000], training loss: 0.0226
+v1_pose0, ate: 4.02304426421549
+model saved to ../results/2D/v1_pose0/model_best.pth
+[8980/15000], training loss: 0.0269
+model saved to ../results/2D/v1_pose0/model_best.pth
+[9000/15000], training loss: 0.0285
+model saved to ../results/2D/v1_pose0/model_best.pth
+[9020/15000], training loss: 0.0242
+model saved to ../results/2D/v1_pose0/model_best.pth
+[9040/15000], training loss: 0.0292
+v1_pose0, ate: 3.4995190989212572
+model saved to ../results/2D/v1_pose0/model_best.pth
+[9060/15000], training loss: 0.0258
+model saved to ../results/2D/v1_pose0/model_best.pth
+[9080/15000], training loss: 0.0241
+model saved to ../results/2D/v1_pose0/model_best.pth
+[9100/15000], training loss: 0.0249
+model saved to ../results/2D/v1_pose0/model_best.pth
+[9120/15000], training loss: 0.0226
+v1_pose0, ate: 2.739034532304671
+model saved to ../results/2D/v1_pose0/model_best.pth
+[9140/15000], training loss: 0.0236
+model saved to ../results/2D/v1_pose0/model_best.pth
+[9160/15000], training loss: 0.0231
+model saved to ../results/2D/v1_pose0/model_best.pth
+[9180/15000], training loss: 0.0211
+model saved to ../results/2D/v1_pose0/model_best.pth
+[9200/15000], training loss: 0.0246
+v1_pose0, ate: 2.7112199785807083
+model saved to ../results/2D/v1_pose0/model_best.pth
+[9220/15000], training loss: 0.0226
+model saved to ../results/2D/v1_pose0/model_best.pth
+[9240/15000], training loss: 0.0248
+model saved to ../results/2D/v1_pose0/model_best.pth
+[9260/15000], training loss: 0.0226
+model saved to ../results/2D/v1_pose0/model_best.pth
+[9280/15000], training loss: 0.0239
+v1_pose0, ate: 3.154891755462581
+model saved to ../results/2D/v1_pose0/model_best.pth
+[9300/15000], training loss: 0.0216
+model saved to ../results/2D/v1_pose0/model_best.pth
+[9320/15000], training loss: 0.0250
+model saved to ../results/2D/v1_pose0/model_best.pth
+[9340/15000], training loss: 0.0268
+model saved to ../results/2D/v1_pose0/model_best.pth
+[9360/15000], training loss: 0.0226
+v1_pose0, ate: 4.030451144731827
+model saved to ../results/2D/v1_pose0/model_best.pth
+[9380/15000], training loss: 0.0253
+model saved to ../results/2D/v1_pose0/model_best.pth
+[9400/15000], training loss: 0.0221
+model saved to ../results/2D/v1_pose0/model_best.pth
+[9420/15000], training loss: 0.0227
+model saved to ../results/2D/v1_pose0/model_best.pth
+[9440/15000], training loss: 0.0324
+v1_pose0, ate: 4.386307715842417
+model saved to ../results/2D/v1_pose0/model_best.pth
+[9460/15000], training loss: 0.0236
+model saved to ../results/2D/v1_pose0/model_best.pth
+[9480/15000], training loss: 0.0232
+model saved to ../results/2D/v1_pose0/model_best.pth
+[9500/15000], training loss: 0.0238
+model saved to ../results/2D/v1_pose0/model_best.pth
+[9520/15000], training loss: 0.0239
+v1_pose0, ate: 1.8747022927808352
+model saved to ../results/2D/v1_pose0/model_best.pth
+[9540/15000], training loss: 0.0294
+model saved to ../results/2D/v1_pose0/model_best.pth
+[9560/15000], training loss: 0.0222
+model saved to ../results/2D/v1_pose0/model_best.pth
+[9580/15000], training loss: 0.0235
+model saved to ../results/2D/v1_pose0/model_best.pth
+[9600/15000], training loss: 0.0258
+v1_pose0, ate: 2.493503288386161
+model saved to ../results/2D/v1_pose0/model_best.pth
+[9620/15000], training loss: 0.0237
+model saved to ../results/2D/v1_pose0/model_best.pth
+[9640/15000], training loss: 0.0223
+model saved to ../results/2D/v1_pose0/model_best.pth
+[9660/15000], training loss: 0.0273
+model saved to ../results/2D/v1_pose0/model_best.pth
+[9680/15000], training loss: 0.0295
+v1_pose0, ate: 8.307630639048773
+model saved to ../results/2D/v1_pose0/model_best.pth
+[9700/15000], training loss: 0.0237
+model saved to ../results/2D/v1_pose0/model_best.pth
+[9720/15000], training loss: 0.0232
+model saved to ../results/2D/v1_pose0/model_best.pth
+[9740/15000], training loss: 0.0239
+model saved to ../results/2D/v1_pose0/model_best.pth
+[9760/15000], training loss: 0.0233
+v1_pose0, ate: 4.068508619529006
+model saved to ../results/2D/v1_pose0/model_best.pth
+[9780/15000], training loss: 0.0225
+model saved to ../results/2D/v1_pose0/model_best.pth
+[9800/15000], training loss: 0.0241
+model saved to ../results/2D/v1_pose0/model_best.pth
+[9820/15000], training loss: 0.0241
+model saved to ../results/2D/v1_pose0/model_best.pth
+[9840/15000], training loss: 0.0250
+v1_pose0, ate: 3.464919089405333
+model saved to ../results/2D/v1_pose0/model_best.pth
+[9860/15000], training loss: 0.0261
+model saved to ../results/2D/v1_pose0/model_best.pth
+[9880/15000], training loss: 0.0302
+model saved to ../results/2D/v1_pose0/model_best.pth
+[9900/15000], training loss: 0.0259
+model saved to ../results/2D/v1_pose0/model_best.pth
+[9920/15000], training loss: 0.0238
+v1_pose0, ate: 3.5251543518947206
+model saved to ../results/2D/v1_pose0/model_best.pth
+[9940/15000], training loss: 0.0247
+model saved to ../results/2D/v1_pose0/model_best.pth
+[9960/15000], training loss: 0.0252
+model saved to ../results/2D/v1_pose0/model_best.pth
+[9980/15000], training loss: 0.0239
+model saved to ../results/2D/v1_pose0/model_best.pth
+[10000/15000], training loss: 0.0222
+v1_pose0, ate: 2.528251205494456
+model saved to ../results/2D/v1_pose0/model_best.pth
+[10020/15000], training loss: 0.0226
+model saved to ../results/2D/v1_pose0/model_best.pth
+[10040/15000], training loss: 0.0231
+model saved to ../results/2D/v1_pose0/model_best.pth
+[10060/15000], training loss: 0.0254
+model saved to ../results/2D/v1_pose0/model_best.pth
+[10080/15000], training loss: 0.0220
+v1_pose0, ate: 3.33815439658765
+model saved to ../results/2D/v1_pose0/model_best.pth
+[10100/15000], training loss: 0.0246
+model saved to ../results/2D/v1_pose0/model_best.pth
+[10120/15000], training loss: 0.0238
+model saved to ../results/2D/v1_pose0/model_best.pth
+[10140/15000], training loss: 0.0260
+model saved to ../results/2D/v1_pose0/model_best.pth
+[10160/15000], training loss: 0.0230
+v1_pose0, ate: 2.6793995484490014
+model saved to ../results/2D/v1_pose0/model_best.pth
+[10180/15000], training loss: 0.0254
+model saved to ../results/2D/v1_pose0/model_best.pth
+[10200/15000], training loss: 0.0231
+model saved to ../results/2D/v1_pose0/model_best.pth
+[10220/15000], training loss: 0.0276
+model saved to ../results/2D/v1_pose0/model_best.pth
+[10240/15000], training loss: 0.0260
+v1_pose0, ate: 5.916266670794665
+model saved to ../results/2D/v1_pose0/model_best.pth
+[10260/15000], training loss: 0.0280
+model saved to ../results/2D/v1_pose0/model_best.pth
+[10280/15000], training loss: 0.0239
+model saved to ../results/2D/v1_pose0/model_best.pth
+[10300/15000], training loss: 0.0266
+model saved to ../results/2D/v1_pose0/model_best.pth
+[10320/15000], training loss: 0.0225
+v1_pose0, ate: 3.399752991988749
+model saved to ../results/2D/v1_pose0/model_best.pth
+[10340/15000], training loss: 0.0206
+model saved to ../results/2D/v1_pose0/model_best.pth
+[10360/15000], training loss: 0.0257
+model saved to ../results/2D/v1_pose0/model_best.pth
+[10380/15000], training loss: 0.0258
+model saved to ../results/2D/v1_pose0/model_best.pth
+[10400/15000], training loss: 0.0244
+v1_pose0, ate: 4.3029716112213405
+model saved to ../results/2D/v1_pose0/model_best.pth
+[10420/15000], training loss: 0.0213
+model saved to ../results/2D/v1_pose0/model_best.pth
+[10440/15000], training loss: 0.0219
+model saved to ../results/2D/v1_pose0/model_best.pth
+[10460/15000], training loss: 0.0230
+model saved to ../results/2D/v1_pose0/model_best.pth
+[10480/15000], training loss: 0.0240
+v1_pose0, ate: 2.3594008026743594
+model saved to ../results/2D/v1_pose0/model_best.pth
+[10500/15000], training loss: 0.0258
+model saved to ../results/2D/v1_pose0/model_best.pth
+[10520/15000], training loss: 0.0234
+model saved to ../results/2D/v1_pose0/model_best.pth
+[10540/15000], training loss: 0.0287
+model saved to ../results/2D/v1_pose0/model_best.pth
+[10560/15000], training loss: 0.0273
+v1_pose0, ate: 2.607261746214057
+model saved to ../results/2D/v1_pose0/model_best.pth
+[10580/15000], training loss: 0.0242
+model saved to ../results/2D/v1_pose0/model_best.pth
+[10600/15000], training loss: 0.0240
+model saved to ../results/2D/v1_pose0/model_best.pth
+[10620/15000], training loss: 0.0235
+model saved to ../results/2D/v1_pose0/model_best.pth
+[10640/15000], training loss: 0.0286
+v1_pose0, ate: 2.091892631840042
+model saved to ../results/2D/v1_pose0/model_best.pth
+[10660/15000], training loss: 0.0255
+model saved to ../results/2D/v1_pose0/model_best.pth
+[10680/15000], training loss: 0.0248
+model saved to ../results/2D/v1_pose0/model_best.pth
+[10700/15000], training loss: 0.0224
+model saved to ../results/2D/v1_pose0/model_best.pth
+[10720/15000], training loss: 0.0239
+v1_pose0, ate: 2.3365967487303276
+model saved to ../results/2D/v1_pose0/model_best.pth
+[10740/15000], training loss: 0.0225
+model saved to ../results/2D/v1_pose0/model_best.pth
+[10760/15000], training loss: 0.0278
+model saved to ../results/2D/v1_pose0/model_best.pth
+[10780/15000], training loss: 0.0262
+model saved to ../results/2D/v1_pose0/model_best.pth
+[10800/15000], training loss: 0.0222
+v1_pose0, ate: 2.8210621900594517
+model saved to ../results/2D/v1_pose0/model_best.pth
+[10820/15000], training loss: 0.0247
+model saved to ../results/2D/v1_pose0/model_best.pth
+[10840/15000], training loss: 0.0272
+model saved to ../results/2D/v1_pose0/model_best.pth
+[10860/15000], training loss: 0.0217
+model saved to ../results/2D/v1_pose0/model_best.pth
+[10880/15000], training loss: 0.0240
+v1_pose0, ate: 3.7611748429353375
+model saved to ../results/2D/v1_pose0/model_best.pth
+[10900/15000], training loss: 0.0260
+model saved to ../results/2D/v1_pose0/model_best.pth
+[10920/15000], training loss: 0.0236
+model saved to ../results/2D/v1_pose0/model_best.pth
+[10940/15000], training loss: 0.0228
+model saved to ../results/2D/v1_pose0/model_best.pth
+[10960/15000], training loss: 0.0238
+v1_pose0, ate: 2.0729478988348617
+model saved to ../results/2D/v1_pose0/model_best.pth
+[10980/15000], training loss: 0.0250
+model saved to ../results/2D/v1_pose0/model_best.pth
+[11000/15000], training loss: 0.0272
+model saved to ../results/2D/v1_pose0/model_best.pth
+[11020/15000], training loss: 0.0268
+model saved to ../results/2D/v1_pose0/model_best.pth
+[11040/15000], training loss: 0.0258
+v1_pose0, ate: 5.229112882508281
+model saved to ../results/2D/v1_pose0/model_best.pth
+[11060/15000], training loss: 0.0236
+model saved to ../results/2D/v1_pose0/model_best.pth
+[11080/15000], training loss: 0.0256
+model saved to ../results/2D/v1_pose0/model_best.pth
+[11100/15000], training loss: 0.0273
+model saved to ../results/2D/v1_pose0/model_best.pth
+[11120/15000], training loss: 0.0222
+v1_pose0, ate: 2.6031490738281042
+model saved to ../results/2D/v1_pose0/model_best.pth
+[11140/15000], training loss: 0.0240
+model saved to ../results/2D/v1_pose0/model_best.pth
+[11160/15000], training loss: 0.0281
+model saved to ../results/2D/v1_pose0/model_best.pth
+[11180/15000], training loss: 0.0245
+model saved to ../results/2D/v1_pose0/model_best.pth
+[11200/15000], training loss: 0.0257
+v1_pose0, ate: 4.73817097267388
+model saved to ../results/2D/v1_pose0/model_best.pth
+[11220/15000], training loss: 0.0303
+model saved to ../results/2D/v1_pose0/model_best.pth
+[11240/15000], training loss: 0.0269
+model saved to ../results/2D/v1_pose0/model_best.pth
+[11260/15000], training loss: 0.0211
+model saved to ../results/2D/v1_pose0/model_best.pth
+[11280/15000], training loss: 0.0244
+v1_pose0, ate: 1.854016977206455
+model saved to ../results/2D/v1_pose0/model_best.pth
+[11300/15000], training loss: 0.0252
+model saved to ../results/2D/v1_pose0/model_best.pth
+[11320/15000], training loss: 0.0243
+model saved to ../results/2D/v1_pose0/model_best.pth
+[11340/15000], training loss: 0.0222
+model saved to ../results/2D/v1_pose0/model_best.pth
+[11360/15000], training loss: 0.0244
+v1_pose0, ate: 4.070714055220139
+model saved to ../results/2D/v1_pose0/model_best.pth
+[11380/15000], training loss: 0.0233
+model saved to ../results/2D/v1_pose0/model_best.pth
+[11400/15000], training loss: 0.0309
+model saved to ../results/2D/v1_pose0/model_best.pth
+[11420/15000], training loss: 0.0242
+model saved to ../results/2D/v1_pose0/model_best.pth
+[11440/15000], training loss: 0.0236
+v1_pose0, ate: 4.4204787963342875
+model saved to ../results/2D/v1_pose0/model_best.pth
+[11460/15000], training loss: 0.0229
+model saved to ../results/2D/v1_pose0/model_best.pth
+[11480/15000], training loss: 0.0238
+model saved to ../results/2D/v1_pose0/model_best.pth
+[11500/15000], training loss: 0.0270
+model saved to ../results/2D/v1_pose0/model_best.pth
+[11520/15000], training loss: 0.0255
+v1_pose0, ate: 2.636059716237825
+model saved to ../results/2D/v1_pose0/model_best.pth
+[11540/15000], training loss: 0.0260
+model saved to ../results/2D/v1_pose0/model_best.pth
+[11560/15000], training loss: 0.0260
+model saved to ../results/2D/v1_pose0/model_best.pth
+[11580/15000], training loss: 0.0252
+model saved to ../results/2D/v1_pose0/model_best.pth
+[11600/15000], training loss: 0.0215
+v1_pose0, ate: 3.8305853487822876
+model saved to ../results/2D/v1_pose0/model_best.pth
+[11620/15000], training loss: 0.0244
+model saved to ../results/2D/v1_pose0/model_best.pth
+[11640/15000], training loss: 0.0265
+model saved to ../results/2D/v1_pose0/model_best.pth
+[11660/15000], training loss: 0.0217
+model saved to ../results/2D/v1_pose0/model_best.pth
+[11680/15000], training loss: 0.0234
+v1_pose0, ate: 3.295793761502071
+model saved to ../results/2D/v1_pose0/model_best.pth
+[11700/15000], training loss: 0.0218
+model saved to ../results/2D/v1_pose0/model_best.pth
+[11720/15000], training loss: 0.0247
+model saved to ../results/2D/v1_pose0/model_best.pth
+[11740/15000], training loss: 0.0227
+model saved to ../results/2D/v1_pose0/model_best.pth
+[11760/15000], training loss: 0.0254
+v1_pose0, ate: 1.7470728310035746
+model saved to ../results/2D/v1_pose0/model_best.pth
+[11780/15000], training loss: 0.0236
+model saved to ../results/2D/v1_pose0/model_best.pth
+[11800/15000], training loss: 0.0229
+model saved to ../results/2D/v1_pose0/model_best.pth
+[11820/15000], training loss: 0.0213
+model saved to ../results/2D/v1_pose0/model_best.pth
+[11840/15000], training loss: 0.0272
+v1_pose0, ate: 3.106349052132292
+model saved to ../results/2D/v1_pose0/model_best.pth
+[11860/15000], training loss: 0.0277
+model saved to ../results/2D/v1_pose0/model_best.pth
+[11880/15000], training loss: 0.0242
+model saved to ../results/2D/v1_pose0/model_best.pth
+[11900/15000], training loss: 0.0227
+model saved to ../results/2D/v1_pose0/model_best.pth
+[11920/15000], training loss: 0.0238
+v1_pose0, ate: 2.4815978404151187
+model saved to ../results/2D/v1_pose0/model_best.pth
+[11940/15000], training loss: 0.0314
+model saved to ../results/2D/v1_pose0/model_best.pth
+[11960/15000], training loss: 0.0263
+model saved to ../results/2D/v1_pose0/model_best.pth
+[11980/15000], training loss: 0.0253
+model saved to ../results/2D/v1_pose0/model_best.pth
+[12000/15000], training loss: 0.0221
+v1_pose0, ate: 3.58653940769327
+model saved to ../results/2D/v1_pose0/model_best.pth
+[12020/15000], training loss: 0.0220
+model saved to ../results/2D/v1_pose0/model_best.pth
+[12040/15000], training loss: 0.0267
+model saved to ../results/2D/v1_pose0/model_best.pth
+[12060/15000], training loss: 0.0307
+model saved to ../results/2D/v1_pose0/model_best.pth
+[12080/15000], training loss: 0.0209
+v1_pose0, ate: 3.4243109048476765
+model saved to ../results/2D/v1_pose0/model_best.pth
+[12100/15000], training loss: 0.0246
+model saved to ../results/2D/v1_pose0/model_best.pth
+[12120/15000], training loss: 0.0215
+model saved to ../results/2D/v1_pose0/model_best.pth
+[12140/15000], training loss: 0.0220
+model saved to ../results/2D/v1_pose0/model_best.pth
+[12160/15000], training loss: 0.0228
+v1_pose0, ate: 2.4463489414513737
+model saved to ../results/2D/v1_pose0/model_best.pth
+[12180/15000], training loss: 0.0249
+model saved to ../results/2D/v1_pose0/model_best.pth
+[12200/15000], training loss: 0.0232
+model saved to ../results/2D/v1_pose0/model_best.pth
+[12220/15000], training loss: 0.0221
+model saved to ../results/2D/v1_pose0/model_best.pth
+[12240/15000], training loss: 0.0267
+v1_pose0, ate: 3.689039738763543
+model saved to ../results/2D/v1_pose0/model_best.pth
+[12260/15000], training loss: 0.0229
+model saved to ../results/2D/v1_pose0/model_best.pth
+[12280/15000], training loss: 0.0226
+model saved to ../results/2D/v1_pose0/model_best.pth
+[12300/15000], training loss: 0.0284
+model saved to ../results/2D/v1_pose0/model_best.pth
+[12320/15000], training loss: 0.0246
+v1_pose0, ate: 2.796979097008619
+model saved to ../results/2D/v1_pose0/model_best.pth
+[12340/15000], training loss: 0.0235
+model saved to ../results/2D/v1_pose0/model_best.pth
+[12360/15000], training loss: 0.0321
+model saved to ../results/2D/v1_pose0/model_best.pth
+[12380/15000], training loss: 0.0244
+model saved to ../results/2D/v1_pose0/model_best.pth
+[12400/15000], training loss: 0.0263
+v1_pose0, ate: 3.9959493085082864
+model saved to ../results/2D/v1_pose0/model_best.pth
+[12420/15000], training loss: 0.0205
+model saved to ../results/2D/v1_pose0/model_best.pth
+[12440/15000], training loss: 0.0302
+model saved to ../results/2D/v1_pose0/model_best.pth
+[12460/15000], training loss: 0.0288
+model saved to ../results/2D/v1_pose0/model_best.pth
+[12480/15000], training loss: 0.0225
+v1_pose0, ate: 2.7951021888755307
+model saved to ../results/2D/v1_pose0/model_best.pth
+[12500/15000], training loss: 0.0235
+model saved to ../results/2D/v1_pose0/model_best.pth
+[12520/15000], training loss: 0.0213
+model saved to ../results/2D/v1_pose0/model_best.pth
+[12540/15000], training loss: 0.0238
+model saved to ../results/2D/v1_pose0/model_best.pth
+[12560/15000], training loss: 0.0280
+v1_pose0, ate: 3.278201143960234
+model saved to ../results/2D/v1_pose0/model_best.pth
+[12580/15000], training loss: 0.0240
+model saved to ../results/2D/v1_pose0/model_best.pth
+[12600/15000], training loss: 0.0240
+model saved to ../results/2D/v1_pose0/model_best.pth
+[12620/15000], training loss: 0.0224
+model saved to ../results/2D/v1_pose0/model_best.pth
+[12640/15000], training loss: 0.0266
+v1_pose0, ate: 6.4236239227775425
+model saved to ../results/2D/v1_pose0/model_best.pth
+[12660/15000], training loss: 0.0225
+model saved to ../results/2D/v1_pose0/model_best.pth
+[12680/15000], training loss: 0.0241
+model saved to ../results/2D/v1_pose0/model_best.pth
+[12700/15000], training loss: 0.0208
+model saved to ../results/2D/v1_pose0/model_best.pth
+[12720/15000], training loss: 0.0239
+v1_pose0, ate: 3.527715902949746
+model saved to ../results/2D/v1_pose0/model_best.pth
+[12740/15000], training loss: 0.0335
+model saved to ../results/2D/v1_pose0/model_best.pth
+[12760/15000], training loss: 0.0205
+model saved to ../results/2D/v1_pose0/model_best.pth
+[12780/15000], training loss: 0.0282
+model saved to ../results/2D/v1_pose0/model_best.pth
+[12800/15000], training loss: 0.0225
+v1_pose0, ate: 2.623210355171596
+model saved to ../results/2D/v1_pose0/model_best.pth
+[12820/15000], training loss: 0.0251
+model saved to ../results/2D/v1_pose0/model_best.pth
+[12840/15000], training loss: 0.0220
+model saved to ../results/2D/v1_pose0/model_best.pth
+[12860/15000], training loss: 0.0255
+model saved to ../results/2D/v1_pose0/model_best.pth
+[12880/15000], training loss: 0.0244
+v1_pose0, ate: 4.407523502232759
+model saved to ../results/2D/v1_pose0/model_best.pth
+[12900/15000], training loss: 0.0204
+model saved to ../results/2D/v1_pose0/model_best.pth
+[12920/15000], training loss: 0.0212
+model saved to ../results/2D/v1_pose0/model_best.pth
+[12940/15000], training loss: 0.0236
+model saved to ../results/2D/v1_pose0/model_best.pth
+[12960/15000], training loss: 0.0239
+v1_pose0, ate: 2.7739469442033506
+model saved to ../results/2D/v1_pose0/model_best.pth
+[12980/15000], training loss: 0.0243
+model saved to ../results/2D/v1_pose0/model_best.pth
+[13000/15000], training loss: 0.0244
+model saved to ../results/2D/v1_pose0/model_best.pth
+[13020/15000], training loss: 0.0252
+model saved to ../results/2D/v1_pose0/model_best.pth
+[13040/15000], training loss: 0.0230
+v1_pose0, ate: 2.4044409765621975
+model saved to ../results/2D/v1_pose0/model_best.pth
+[13060/15000], training loss: 0.0215
+model saved to ../results/2D/v1_pose0/model_best.pth
+[13080/15000], training loss: 0.0230
+model saved to ../results/2D/v1_pose0/model_best.pth
+[13100/15000], training loss: 0.0242
+model saved to ../results/2D/v1_pose0/model_best.pth
+[13120/15000], training loss: 0.0279
+v1_pose0, ate: 3.5485216000063673
+model saved to ../results/2D/v1_pose0/model_best.pth
+[13140/15000], training loss: 0.0227
+model saved to ../results/2D/v1_pose0/model_best.pth
+[13160/15000], training loss: 0.0255
+model saved to ../results/2D/v1_pose0/model_best.pth
+[13180/15000], training loss: 0.0219
+model saved to ../results/2D/v1_pose0/model_best.pth
+[13200/15000], training loss: 0.0219
+v1_pose0, ate: 3.316765321943478
+model saved to ../results/2D/v1_pose0/model_best.pth
+[13220/15000], training loss: 0.0218
+model saved to ../results/2D/v1_pose0/model_best.pth
+[13240/15000], training loss: 0.0216
+model saved to ../results/2D/v1_pose0/model_best.pth
+[13260/15000], training loss: 0.0245
+model saved to ../results/2D/v1_pose0/model_best.pth
+[13280/15000], training loss: 0.0243
+v1_pose0, ate: 1.8111899089767107
+model saved to ../results/2D/v1_pose0/model_best.pth
+[13300/15000], training loss: 0.0233
+model saved to ../results/2D/v1_pose0/model_best.pth
+[13320/15000], training loss: 0.0236
+model saved to ../results/2D/v1_pose0/model_best.pth
+[13340/15000], training loss: 0.0269
+model saved to ../results/2D/v1_pose0/model_best.pth
+[13360/15000], training loss: 0.0235
+v1_pose0, ate: 2.9973925688016765
+model saved to ../results/2D/v1_pose0/model_best.pth
+[13380/15000], training loss: 0.0216
+model saved to ../results/2D/v1_pose0/model_best.pth
+[13400/15000], training loss: 0.0249
+model saved to ../results/2D/v1_pose0/model_best.pth
+[13420/15000], training loss: 0.0267
+model saved to ../results/2D/v1_pose0/model_best.pth
+[13440/15000], training loss: 0.0212
+v1_pose0, ate: 3.3678731899283094
+model saved to ../results/2D/v1_pose0/model_best.pth
+[13460/15000], training loss: 0.0241
+model saved to ../results/2D/v1_pose0/model_best.pth
+[13480/15000], training loss: 0.0220
+model saved to ../results/2D/v1_pose0/model_best.pth
+[13500/15000], training loss: 0.0222
+model saved to ../results/2D/v1_pose0/model_best.pth
+[13520/15000], training loss: 0.0218
+v1_pose0, ate: 3.421633877346587
+model saved to ../results/2D/v1_pose0/model_best.pth
+[13540/15000], training loss: 0.0214
+model saved to ../results/2D/v1_pose0/model_best.pth
+[13560/15000], training loss: 0.0238
+model saved to ../results/2D/v1_pose0/model_best.pth
+[13580/15000], training loss: 0.0231
+model saved to ../results/2D/v1_pose0/model_best.pth
+[13600/15000], training loss: 0.0236
+v1_pose0, ate: 3.19104798006791
+model saved to ../results/2D/v1_pose0/model_best.pth
+[13620/15000], training loss: 0.0218
+model saved to ../results/2D/v1_pose0/model_best.pth
+[13640/15000], training loss: 0.0226
+model saved to ../results/2D/v1_pose0/model_best.pth
+[13660/15000], training loss: 0.0253
+model saved to ../results/2D/v1_pose0/model_best.pth
+[13680/15000], training loss: 0.0245
+v1_pose0, ate: 1.7262826387463817
+model saved to ../results/2D/v1_pose0/model_best.pth
+[13700/15000], training loss: 0.0203
+model saved to ../results/2D/v1_pose0/model_best.pth
+[13720/15000], training loss: 0.0211
+model saved to ../results/2D/v1_pose0/model_best.pth
+[13740/15000], training loss: 0.0224
+model saved to ../results/2D/v1_pose0/model_best.pth
+[13760/15000], training loss: 0.0227
+v1_pose0, ate: 1.9152612196866332
+model saved to ../results/2D/v1_pose0/model_best.pth
+[13780/15000], training loss: 0.0235
+model saved to ../results/2D/v1_pose0/model_best.pth
+[13800/15000], training loss: 0.0280
+model saved to ../results/2D/v1_pose0/model_best.pth
+[13820/15000], training loss: 0.0216
+model saved to ../results/2D/v1_pose0/model_best.pth
+[13840/15000], training loss: 0.0236
+v1_pose0, ate: 2.1369723619054586
+model saved to ../results/2D/v1_pose0/model_best.pth
+[13860/15000], training loss: 0.0216
+model saved to ../results/2D/v1_pose0/model_best.pth
+[13880/15000], training loss: 0.0251
+model saved to ../results/2D/v1_pose0/model_best.pth
+[13900/15000], training loss: 0.0211
+model saved to ../results/2D/v1_pose0/model_best.pth
+[13920/15000], training loss: 0.0210
+v1_pose0, ate: 1.325773366383846
+model saved to ../results/2D/v1_pose0/model_best.pth
+[13940/15000], training loss: 0.0247
+model saved to ../results/2D/v1_pose0/model_best.pth
+[13960/15000], training loss: 0.0232
+model saved to ../results/2D/v1_pose0/model_best.pth
+[13980/15000], training loss: 0.0232
+model saved to ../results/2D/v1_pose0/model_best.pth
+[14000/15000], training loss: 0.0212
+v1_pose0, ate: 2.989612543430284
+model saved to ../results/2D/v1_pose0/model_best.pth
+[14020/15000], training loss: 0.0250
+model saved to ../results/2D/v1_pose0/model_best.pth
+[14040/15000], training loss: 0.0252
+model saved to ../results/2D/v1_pose0/model_best.pth
+[14060/15000], training loss: 0.0256
+model saved to ../results/2D/v1_pose0/model_best.pth
+[14080/15000], training loss: 0.0213
+v1_pose0, ate: 3.041434352089701
+model saved to ../results/2D/v1_pose0/model_best.pth
+[14100/15000], training loss: 0.0243
+model saved to ../results/2D/v1_pose0/model_best.pth
+[14120/15000], training loss: 0.0283
+model saved to ../results/2D/v1_pose0/model_best.pth
+[14140/15000], training loss: 0.0240
+model saved to ../results/2D/v1_pose0/model_best.pth
+[14160/15000], training loss: 0.0258
+v1_pose0, ate: 2.9731897935123013
+model saved to ../results/2D/v1_pose0/model_best.pth
+[14180/15000], training loss: 0.0241
+model saved to ../results/2D/v1_pose0/model_best.pth
+[14200/15000], training loss: 0.0251
+model saved to ../results/2D/v1_pose0/model_best.pth
+[14220/15000], training loss: 0.0220
+model saved to ../results/2D/v1_pose0/model_best.pth
+[14240/15000], training loss: 0.0226
+v1_pose0, ate: 2.1364754022297654
+model saved to ../results/2D/v1_pose0/model_best.pth
+[14260/15000], training loss: 0.0298
+model saved to ../results/2D/v1_pose0/model_best.pth
+[14280/15000], training loss: 0.0248
+model saved to ../results/2D/v1_pose0/model_best.pth
+[14300/15000], training loss: 0.0222
+model saved to ../results/2D/v1_pose0/model_best.pth
+[14320/15000], training loss: 0.0225
+v1_pose0, ate: 2.3272679258144797
+model saved to ../results/2D/v1_pose0/model_best.pth
+[14340/15000], training loss: 0.0243
+model saved to ../results/2D/v1_pose0/model_best.pth
+[14360/15000], training loss: 0.0238
+model saved to ../results/2D/v1_pose0/model_best.pth
+[14380/15000], training loss: 0.0232
+model saved to ../results/2D/v1_pose0/model_best.pth
+[14400/15000], training loss: 0.0234
+v1_pose0, ate: 1.8262297597744481
+model saved to ../results/2D/v1_pose0/model_best.pth
+[14420/15000], training loss: 0.0225
+model saved to ../results/2D/v1_pose0/model_best.pth
+[14440/15000], training loss: 0.0215
+model saved to ../results/2D/v1_pose0/model_best.pth
+[14460/15000], training loss: 0.0249
+model saved to ../results/2D/v1_pose0/model_best.pth
+[14480/15000], training loss: 0.0234
+v1_pose0, ate: 1.062380160981182
+model saved to ../results/2D/v1_pose0/model_best.pth
+[14500/15000], training loss: 0.0214
+model saved to ../results/2D/v1_pose0/model_best.pth
+[14520/15000], training loss: 0.0274
+model saved to ../results/2D/v1_pose0/model_best.pth
+[14540/15000], training loss: 0.0255
+model saved to ../results/2D/v1_pose0/model_best.pth
+[14560/15000], training loss: 0.0226
+v1_pose0, ate: 3.7383872763056454
+model saved to ../results/2D/v1_pose0/model_best.pth
+[14580/15000], training loss: 0.0208
+model saved to ../results/2D/v1_pose0/model_best.pth
+[14600/15000], training loss: 0.0215
+model saved to ../results/2D/v1_pose0/model_best.pth
+[14620/15000], training loss: 0.0213
+model saved to ../results/2D/v1_pose0/model_best.pth
+[14640/15000], training loss: 0.0259
+v1_pose0, ate: 3.61289725490896
+model saved to ../results/2D/v1_pose0/model_best.pth
+[14660/15000], training loss: 0.0243
+model saved to ../results/2D/v1_pose0/model_best.pth
+[14680/15000], training loss: 0.0226
+model saved to ../results/2D/v1_pose0/model_best.pth
+[14700/15000], training loss: 0.0221
+model saved to ../results/2D/v1_pose0/model_best.pth
+[14720/15000], training loss: 0.0268
+v1_pose0, ate: 3.368870347097144
+model saved to ../results/2D/v1_pose0/model_best.pth
+[14740/15000], training loss: 0.0254
+model saved to ../results/2D/v1_pose0/model_best.pth
+[14760/15000], training loss: 0.0229
+model saved to ../results/2D/v1_pose0/model_best.pth
+[14780/15000], training loss: 0.0218
+model saved to ../results/2D/v1_pose0/model_best.pth
+[14800/15000], training loss: 0.0271
+v1_pose0, ate: 1.2545387033261117
+model saved to ../results/2D/v1_pose0/model_best.pth
+[14820/15000], training loss: 0.0232
+model saved to ../results/2D/v1_pose0/model_best.pth
+[14840/15000], training loss: 0.0214
+model saved to ../results/2D/v1_pose0/model_best.pth
+[14860/15000], training loss: 0.0213
+model saved to ../results/2D/v1_pose0/model_best.pth
+[14880/15000], training loss: 0.0214
+v1_pose0, ate: 3.6195404845112695
+model saved to ../results/2D/v1_pose0/model_best.pth
+[14900/15000], training loss: 0.0239
+model saved to ../results/2D/v1_pose0/model_best.pth
+[14920/15000], training loss: 0.0217
+model saved to ../results/2D/v1_pose0/model_best.pth
+[14940/15000], training loss: 0.0242
+model saved to ../results/2D/v1_pose0/model_best.pth
+[14960/15000], training loss: 0.0228
+v1_pose0, ate: 2.287115684852853
+model saved to ../results/2D/v1_pose0/model_best.pth
+[14980/15000], training loss: 0.0238
+model saved to ../results/2D/v1_pose0/model_best.pth
+[15000/15000], training loss: 0.0238
+model saved to ../results/2D/v1_pose0/model_best.pth

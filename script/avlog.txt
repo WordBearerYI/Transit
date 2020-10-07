@@ -1,0 +1,11 @@
+maxpool
+latent size single: 128
+loading dataset
+16
+pccppcpc1123 (16, 27, 48, 3)
+creating model
+start training
+Traceback (most recent call last):
+  File "train_AVD.py", line 152, in <module>
+    latent_inputs = torch.cat([latent, latent.unsqueeze(1)], 1)
+RuntimeError: Dimension out of range (expected to be in range of [-1, 0], but got 1)
